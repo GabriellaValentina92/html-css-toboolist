@@ -4,8 +4,57 @@
     padding: 0;
 }
 
+.logo{
+    padding: 10px 0px 0px 15px;
+}
+
 .logo-title{
     display: inline-block;
-    font-family: 'Roboto', sans-serif;
     font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    background-color: lightgrey;
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+}
+
+.btn{
+    height: 50px;
+    
+}
+
+.btn-menu{
+    margin: 15px 40px;
+    width: 100px;
+}
+
+.addT{
+    background-color: rgb(80, 182, 250);
+    border: 2px solid rgb(80, 182, 250);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.addS{
+    background-color: white;
+    color: grey;
+    border: 2px solid grey;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.list1{
+    list-style: none;
+}
+
+.editorial{
+    color: white;
+    background-color: rgb(80, 182, 250);
+    width: 100px;
+    border-radius: 10px;
+    padding: 5px;
 }
