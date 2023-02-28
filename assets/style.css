@@ -15,9 +15,6 @@
 }
 
 .container{
-    background-color: lightgrey;
-    width: 1000px;
-    height: 1000px;
     margin: auto;
 }
 
@@ -47,14 +44,38 @@
     padding: 5px;
 }
 
-.list1{
+.list{
     list-style: none;
+    line-height: 40px;
 }
 
-.editorial{
+.tag{
     color: white;
-    background-color: rgb(80, 182, 250);
     width: 100px;
     border-radius: 10px;
     padding: 5px;
+}
+
+.editorial{
+    background-color: rgb(80, 182, 250);
+}
+
+.goals{
+    background-color: blueviolet;
+}
+
+.recruiting{
+    background-color: rgb(71, 241, 148);
+}
+
+.Mobile{
+    background-color: rgb(248, 154, 30);
+}
+
+.Web{
+    background-color: rgb(209, 24, 153);
+}
+
+.sales{
+    background-color: rgb(84, 252, 62);
 }
