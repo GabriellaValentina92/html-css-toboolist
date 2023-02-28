@@ -34,8 +34,12 @@ header{
     
 }
 
+main{
+    margin-left: 50px;
+}
+
 .btn-menu{
-    margin: 15px 40px;
+    margin-top: 15px;
     width: 100px;
 }
 
@@ -58,6 +62,7 @@ header{
 .list{
     list-style: none;
     line-height: 40px;
+    margin-top: 20px;
 }
 
 .tag{
